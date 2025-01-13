@@ -1,4 +1,4 @@
-/*!
+/*! 
  * jQuery JavaScript Library v3.6.3 -ajax,-ajax/jsonp,-ajax/load,-ajax/script,-ajax/var/location,-ajax/var/nonce,-ajax/var/rquery,-ajax/xhr,-manipulation/_evalUrl,-deprecated/ajax-event-alias,-effects,-effects/Tween,-effects/animatedSelector
  * https://jquery.com/
  *
@@ -10,6 +10,10 @@
  * https://jquery.org/license
  *
  * Date: 2022-12-20T21:28Z
+ */
+/**
+ * Day 1 sunday
+ * 
  */
 ( function( global, factory ) {
 
